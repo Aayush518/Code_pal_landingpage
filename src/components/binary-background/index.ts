@@ -1,0 +1,1 @@
+export { BinaryBackground } from './binary-background';
